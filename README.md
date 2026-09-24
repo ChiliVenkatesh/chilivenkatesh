@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Chili Venkatesh</h1>
-<h3 align="center">Aspiring Data Analyst | Python • SQL • Power BI • Machine Learning • NLP • Agentic AI</h3>
+<h3 align="center">Aspiring Data Scientist | Python • SQL • Power BI • Machine Learning • NLP • Agentic AI</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0F3460&center=true&vCenter=true&width=500&lines=Data+Analyst+%7C+ML+%2F+NLP+Enthusiast;Python+%7C+SQL+%7C+Power+BI;Building+data-driven+%26+AI-powered+apps;Open+to+opportunities!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0F3460&center=true&vCenter=true&width=500&lines=Data+Scientist+%7C+ML+%2F+NLP+Enthusiast;Python+%7C+SQL+%7C+Power+BI;Building+data-driven+%26+AI-powered+apps;Open+to+opportunities!" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -21,8 +21,8 @@
 
 ## 🙋‍♂️ About Me
 
-- 🎓 **B.Tech in CSE** from JNTUK University, Kakinada (2021–2025)
-- 📊 Trained **Data Analyst** at Innomatics Research Labs, Hyderabad
+- 🎓 **B.Tech in CSE** from Sri Vasavi Engineering College (2021–2025)
+- 📊 Trained in **Data Science** at Innomatics Research Labs, Hyderabad
 - 🌍 Based in **Hyderabad, India**
 - 💡 Passionate about turning raw data into meaningful insights
 - 🚀 Building projects across **ML, Deep Learning, NLP, Agentic AI, EDA, Power BI & SQL**
@@ -47,6 +47,8 @@
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Langfuse](https://img.shields.io/badge/Langfuse-000000?style=for-the-badge&logo=langfuse&logoColor=white)
 
 ### Visualization & BI
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -187,8 +189,8 @@
 
 | Degree | Institute | Year | Score |
 |--------|-----------|------|-------|
-| B.Tech – CSE | JNTUK University, Kakinada | 2021–2025 | 60.25% |
-| Data Analyst Training | Innomatics Research Labs, Hyderabad | 2025 | — |
+| B.Tech – CSE | Sri Vasavi Engineering College | 2021–2025 | 60.25% |
+| Data Science Training | Innomatics Research Labs, Hyderabad | 2025 | — |
 | Intermediate (MPC) | DNR Inter Jr College, Bhimavaram | 2019–2021 | 58.20% |
 | SSC | Z.P.H School Makkinavarigudem, Eluru Dist. | 2019 | 73.15% |
 
@@ -201,6 +203,9 @@
 - 🏅 **Exploratory Data Analysis** – Innomatics Research Labs
 - 🏅 **MySQL** – Innomatics Research Labs
 - 🏅 **Power BI** – Innomatics Research Labs
+- 🏅 **Artificial Neural Networks (ANN)** – Innomatics Research Labs
+- 🏅 **Natural Language Processing (NLP)** – Innomatics Research Labs
+- 🏅 **Recurrent Neural Networks (RNN)** – Innomatics Research Labs
 
 ---
 
