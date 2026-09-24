@@ -45,20 +45,34 @@ contact: "chilivenkatesh2003@gmail.com | +91-8186961602"
 <br/>
 <img src="https://skillicons.dev/icons?i=python,mysql&theme=dark" />
 
-**Machine Learning, Deep Learning & NLP**
 <br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pytorch,huggingface&theme=dark" />
 
+**Machine Learning & Deep Learning**
+<br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pytorch&theme=dark" />
+<br/>
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
 <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
+
+<br/><br/>
+
+**Generative & Agentic AI**
+<br/>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
 <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
 <img src="https://img.shields.io/badge/Langfuse-000000?style=for-the-badge&logo=langfuse&logoColor=white" />
 
+<br/><br/>
+
 **Visualization & Apps**
 <br/>
 <img src="https://skillicons.dev/icons?i=streamlit&theme=dark" />
+<br/>
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+
+<br/><br/>
 
 **Tools**
 <br/>
@@ -270,9 +284,11 @@ EDA on online TV sales data — trends, customer preferences, and pricing patter
 
 <div align="center">
 
-🏅 Machine Learning &nbsp;•&nbsp; 🏅 Python Programming &nbsp;•&nbsp; 🏅 Exploratory Data Analysis &nbsp;•&nbsp; 🏅 MySQL
-<br/>
-🏅 Power BI &nbsp;•&nbsp; 🏅 Artificial Neural Networks (ANN) &nbsp;•&nbsp; 🏅 Natural Language Processing (NLP) &nbsp;•&nbsp; 🏅 Recurrent Neural Networks (RNN)
+| | | |
+|:---:|:---:|:---:|
+| 🏅 Machine Learning | 🏅 Python Programming | 🏅 Exploratory Data Analysis |
+| 🏅 MySQL | 🏅 Power BI | 🏅 Artificial Neural Networks (ANN) |
+| 🏅 Natural Language Processing (NLP) | 🏅 Recurrent Neural Networks (RNN) | |
 
 <sub>All issued by Innomatics Research Labs</sub>
 
@@ -293,14 +309,6 @@ EDA on online TV sales data — trends, customer preferences, and pricing patter
 
 </div>
 
-<details>
-<summary>🏆 GitHub Trophies</summary>
-<br/>
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ChiliVenkatesh&theme=radical&no-frame=true&row=1&column=6" />
-</div>
-</details>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:667eea,100:764ba2&height=3&width=100%" width="100%"/>
 
 ## 🤝 Let's Connect
@@ -317,9 +325,18 @@ EDA on online TV sales data — trends, customer preferences, and pricing patter
 
 <br/><br/>
 
-🙏 <b>Thanks for stopping by!</b> Feel free to explore my projects, connect on LinkedIn, or drop me an email — always open to opportunities and interesting conversations around Data Science, ML, NLP, and Generative AI.
+🙏 <b>Thanks for stopping by!</b>
 
-<br/><br/>
+<div align="left" style="display:inline-block;">
+
+- 💬 Always open to conversations around **Data Science, ML, NLP & Generative AI**
+- 🌱 Currently exploring **multi-agent systems** and **RAG pipelines**
+- 🚀 Open to **opportunities** — feel free to explore my projects
+- 📩 Reach out via **LinkedIn** or **email** anytime
+
+</div>
+
+<br/>
 
 <i>"Data is the new oil — I help refine it."</i>
 
